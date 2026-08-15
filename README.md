@@ -102,3 +102,8 @@ docker run -d \
 ```
 
 Default settings work great out of the box — only customize if you want to disable specific engines or add API keys for better results.
+
+
+---
+
+> **Privacy note:** Internal IP addresses originally present in this repository have been replaced with placeholder addresses in the `10.10.0.0/16` range to protect the owner's private network topology. Functionality is unchanged; configure real addresses via environment variables where supported.
